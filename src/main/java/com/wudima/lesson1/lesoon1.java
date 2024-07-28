@@ -7,6 +7,6 @@ public class lesoon1 {
     }
 
     private static void task1(){
-        System.out.println("hello");
+        System.out.println("Hello!!!");
     }
 }
